@@ -1,6 +1,6 @@
 ---
 name: Georg Hörner
-image: assets/images/georg_hörner.jpg
+image: assets/images/georg_hoerner.jpg
 position: Student Assistant
 email: fu-berlin.de
 ---
